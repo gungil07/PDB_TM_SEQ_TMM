@@ -1,3 +1,3 @@
 These Python scripts are part of ones which have been generated for my work of mpstruc. 
-Script development was started on June 27 and the scripts are still under the optimzation
-This version includes from weekly updated PDBs, uniprot information, and sequences. I added protein function and GO terms as well - July 16, 2025
+The Script development was started on June 27 2025 and the scripts are still under the optimzation to make my work convenient. 
+This version includes the automatic information extration as the csv and txt files from weekly updated PDBs, PDB sequences and PDB and uniprot information. I added more information about the protein function and GO terms as well - July 16, 2025
